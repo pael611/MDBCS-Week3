@@ -1,5 +1,5 @@
 SELECT
-		tb_pelanggan.nama,
+	tb_pelanggan.nama,
     	tb_kamar.jenis_kamar,
     	tb_kamar.kapasitas,
     	tb_reservasi_hotel.tanggal_check_in,
